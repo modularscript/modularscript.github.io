@@ -4,7 +4,10 @@ source "https://rubygems.org"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "jekyll", "~> 3.10.0"
 gem 'github-pages', '~> 232', group: :jekyll_plugins
+gem 'jekyll-paginate', '~> 1.1'
 gem "minima", "~> 2.5"
+gem 'faraday-retry'
+
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
