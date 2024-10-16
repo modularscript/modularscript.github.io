@@ -1,4 +1,4 @@
-# modjek
+# modularscript.github.io
 
 Development in Progress
 The feature you are looking for is currently under development and has not been released yet.
