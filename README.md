@@ -17,3 +17,8 @@ This project is intended to be a safe, welcoming space for collaboration, and co
 ## License
 
 Available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+
+## Resourses
+
+- [GitHub Pages uses the following dependencies and versions:] (https://pages.github.com/versions/)

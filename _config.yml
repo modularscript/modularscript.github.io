@@ -1,7 +1,7 @@
-domain: modularscript.github.io/
-url: https://modularscript.github.io/
+domain: modularscript.github.
+url: https://modularscript.github.io
 title: Modular Script
-baseurl: modularscript.github.io
+baseurl:
 email: your-email@example.com
 description: Dive into the world of coding and technical exploration with us. Whether you’re a seasoned developer or just starting out, our site offers a treasure trove of scripts, coding tutorials, and insights into various technical interests. Join our community of tech enthusiasts and elevate your skills to the next level. Let’s code, learn, and innovate together!
 twitter_username: jekyllrb
@@ -11,6 +11,21 @@ github_username:  modularscript
 theme: minima
 plugins:
   - jekyll-feed
+
+
+# Default by GithubPages env.
+lsi: false
+safe: true
+#source: [your repo's top level directory] # TODO: ?
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
